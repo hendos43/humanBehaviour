@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [![](http://img.youtube.com/vi/RHU4nXddLNU/0.jpg)](http://www.youtube.com/watch?v=RHU4nXddLNU "")
 
-{% include youtubePlayer.html id="RHU4nXddLNU" %}
+<div class="embed-youtube">{% include youtubePlayer.html id="RHU4nXddLNU" %}</div>
 
 
 ### Markdown
