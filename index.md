@@ -1,6 +1,5 @@
 ![](/assets/images/oranges/oranges.jpg)
 
-
 # Oranges
 
  Some shit about Oranges
