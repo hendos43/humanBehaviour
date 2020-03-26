@@ -1,6 +1,5 @@
 ![](/assets/images/oranges/oranges.jpg)
 
-<div class="embed-youtube">{% include youtubePlayer.html id="RHU4nXddLNU" %}</div>
 
 # Oranges
 
@@ -22,3 +21,4 @@
 </table>
 
 
+<div class="embed-youtube">{% include youtubePlayer.html id="RHU4nXddLNU" %}</div>
