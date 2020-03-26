@@ -3,3 +3,5 @@
 ### Oranges
 
 # Some shit about Oranges
+
+[a relative link](another-page.md)
