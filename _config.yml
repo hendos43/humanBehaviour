@@ -1,3 +1,7 @@
 theme: minima
 title: println(humanBehaviour);
 description: A project by Stephen Henderson and Mahalia Henry-Richards
+
+nav:
+    - 'index.md'
+    - 'another-page.md'
