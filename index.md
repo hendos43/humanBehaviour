@@ -1,5 +1,3 @@
-## Installation 1
-
 <div class="embed-youtube">{% include youtubePlayer.html id="RHU4nXddLNU" %}</div>
 
 ### Oranges
