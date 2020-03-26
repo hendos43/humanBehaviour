@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/hendos43/humanBehaviour/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[![](http://img.youtube.com/vi/RHU4nXddLNU/0.jpg)](http://www.youtube.com/watch?v=RHU4nXddLNU "")
+
+{% include youtubePlayer.html id="RHU4nXddLNU" %}
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
