@@ -19,5 +19,4 @@
 </tr>
 </table>
 
-
 <div class="embed-youtube">{% include youtubePlayer.html id="RHU4nXddLNU" %}</div>
