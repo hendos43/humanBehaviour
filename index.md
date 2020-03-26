@@ -1,17 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/hendos43/humanBehaviour/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-[![](http://img.youtube.com/vi/RHU4nXddLNU/0.jpg)](http://www.youtube.com/watch?v=RHU4nXddLNU "")
+## Installation 1
 
 <div class="embed-youtube">{% include youtubePlayer.html id="RHU4nXddLNU" %}</div>
 
+### Oranges
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some shit about Oranges
 
 ```markdown
 Syntax highlighted code block
