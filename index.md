@@ -8,7 +8,7 @@
 
 [a relative link](another-page.md)
 
-<figcaption>fuck</figcaption>
+<blockquote>fuck</blockquote>
 
 
 <div class="embed-youtube">{% include youtubePlayer.html id="RHU4nXddLNU" %}</div>
