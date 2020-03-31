@@ -1,7 +1,3 @@
----
-title: println(humanBehaviour); | Oranges
----
-
 ![](/assets/images/oranges/oranges.jpg)
 
 # Oranges
