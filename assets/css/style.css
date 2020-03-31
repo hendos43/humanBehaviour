@@ -23,7 +23,7 @@ body {
     flex-direction: column
 }
 
-.oranges{
+div.oranges{
     background-image: url(/assets/images/oranges/oranges.jpg);
 }
 
