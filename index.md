@@ -1,5 +1,6 @@
 ---
 title: Oranges
+layout: default-layout
 ---
 
 ![](/assets/images/oranges/oranges.jpg)
