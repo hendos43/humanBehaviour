@@ -6,7 +6,7 @@ title: Oranges
 
 # Oranges
 
-Some shit about {{ page.title }}
+Some {{ page.title }} shit about {{ page.title }}
 
 [a relative link](another-page.md)
 
