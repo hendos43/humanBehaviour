@@ -23,6 +23,10 @@ body {
     flex-direction: column
 }
 
+.oranges{
+    background-image: url(/assets/images/oranges/oranges.jpg)
+}
+
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
     margin-bottom: 15px
 }
