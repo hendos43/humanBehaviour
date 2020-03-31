@@ -1,8 +1,12 @@
+---
+title: Oranges
+---
+
 ![](/assets/images/oranges/oranges.jpg)
 
 # Oranges
 
- Some shit about Oranges
+Some shit about {{ page.title }}
 
 [a relative link](another-page.md)
 
